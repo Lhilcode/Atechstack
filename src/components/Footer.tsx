@@ -130,7 +130,7 @@ export function Footer() {
             
             <div className="flex items-center space-x-4 text-sm">
               <span className="text-muted-foreground">
-                Made with ❤️ for real estate professionals
+                Designed for growth, built for real estate
               </span>
               
               <Button
